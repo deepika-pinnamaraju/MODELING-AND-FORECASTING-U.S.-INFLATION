@@ -107,7 +107,7 @@ From the above summary table of NNAR models, we can also say that model without 
 
 Compared to ARIMA models and linear model, NNAR models performed very better by all performance metrics used. In both NNAR and ARIMA models, Commodities, FEDFUNDS and all variables without oil performed better. The above NNAR and ARIMA models are sorted based on their performance metrics. The top three best models are NNAR 4, NNAR 5 and NNAR 7. I have ensembled these three models to forecast Inflation rate. 
 
-#### Predictions versus Actuals from Jan 1972 to Dec 2022:
+#### Predictions versus Actuals from Jan 2018 to Dec 2022:
 
 ![image](https://user-images.githubusercontent.com/58209985/235063403-2a19bde1-8bf0-4ac6-9e78-b806999a00bc.png)
 
