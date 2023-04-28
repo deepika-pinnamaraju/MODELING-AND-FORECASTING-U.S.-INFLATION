@@ -1,4 +1,4 @@
-## MODELING AND FORECASTING U.S. INFLATION
+## MODELING AND FORECASTING U.S. INFLATION FROM 1972-2022
 #### PROBLEM STATEMENT:
 
 The aim of this project is to model inflation in the United States using various economic indicators from Jan 1972 to Dec 2022 and forecast inflation from Jan 2023 to Jan 2024. This is a univariate time series analysis and forecasting. I have converted Inflation Rate into time-series to forecast it.
