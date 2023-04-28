@@ -105,9 +105,19 @@ From the above summary table of NNAR models, we can also say that model without 
 
 ![image](https://user-images.githubusercontent.com/58209985/235061686-6bcc78db-66af-4170-840f-f4f03e1d0b13.png)
 
+Compared to ARIMA models and linear model, NNAR models performed very better by all performance metrics used. The above NNAR and ARIMA models are sorted based on their performance metrics. The top three best models are NNAR 4, NNAR 5 and NNAR 7. I have ensembled these three models to forecast Inflation rate. 
 
+##### Predictions versus Actuals from Jan 1972 to Dec 2022:
 
+![image](https://user-images.githubusercontent.com/58209985/235063403-2a19bde1-8bf0-4ac6-9e78-b806999a00bc.png)
 
+From this plot we also see that every model predicts a similar movement in inflation, where it is expected to drop off by September 2022. We can see that forecasted inflation values of ensembled model is very close to the actual inflation rate in the United states respective years.
+
+##### Forecasting Results from Jan 2023 to Jan 2024:
+
+![image](https://user-images.githubusercontent.com/58209985/235063542-820fabde-cf59-4092-8d09-7b448ec0d74e.png)
+
+From the above plot, we can see that forecasted inflation rate in Jan 2024 is between 1 and 2.3 which is close to the experts forecast.Inflation has dropped in the year 2023 but with a small ups and downs in the respective months and by the end of this year we can see that there is a drop in inflation.
 
 
 
