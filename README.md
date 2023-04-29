@@ -120,5 +120,3 @@ From this plot we also see that every model predicts a similar movement in infla
 From the above plot, we can see that forecasted inflation rate in Jan 2024 is between 1 and 2.3 which is close to the experts forecast.Inflation has dropped in the year 2023 but with a small ups and downs in the respective months and by the end of this year we can see that there is a drop in inflation.
 
 
-
-
